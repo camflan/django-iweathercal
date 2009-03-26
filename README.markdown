@@ -12,7 +12,7 @@ to use
 ======
 add `iweathercal` to INSTALLED_APPS and visit the URL + location/zip code.
 
-EXAMPLE URL
+example url
 -----------
 Lawrence, KS (66046 zip code)
 `http://im.camronflanders.com/weather/66046`
