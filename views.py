@@ -87,7 +87,7 @@ def for_zip(request, location):
         })
 
     cal = Calendar()
-    cal.add('prodid', '-//django-weathercal//camronflanders.com//')
+    cal.add('prodid', '-//django-iweathercal//camronflanders.com//')
     cal.add('version', '2.0')
 
     for forecast in forecasts:
