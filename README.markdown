@@ -18,4 +18,4 @@ Lawrence, KS (66046 zip code)
 `http://im.camronflanders.com/weather/66046`
 
 London, England (UKXX0085 location code)
-http://im.camronflanders.com/weather/UKXX0085
+`http://im.camronflanders.com/weather/UKXX0085`
